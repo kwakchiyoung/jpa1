@@ -11,6 +11,6 @@ public class JpaMain {
         System.out.println("실행되는거 맞냐?");
 
         em.close();
-        emf.close();zz
+        emf.close();
     }
 }
